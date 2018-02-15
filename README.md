@@ -6,9 +6,9 @@ This repository contains the mixed integer linear programming model to find the 
 
 
 **Reposiory Information**
-*R Codes for Data Cleaning and Analysis* - folder which contains r files which make the data ready for input into excel files for analysis  
-*data* - datasets of the problem    
-*guidelines* - competition guidelines in PDF formates   
-*Modeling Strategy and Analysis .pdf/pptx* - Presentation which outlines the strategy for modeling and contains the results.  
-*Mixed Integer Programming Model* - Excel files which models contraints and gives the products choosen and their weights.  
+**R Codes for Data Cleaning and Analysis** - folder which contains r files which make the data ready for input into excel files for analysis  
+**data** - datasets of the problem    
+**guidelines** - competition guidelines in PDF formates   
+**Modeling Strategy and Analysis .pdf/pptx** - Presentation which outlines the strategy for modeling and contains the results.  
+**Mixed Integer Programming Model** - Excel files which models contraints and gives the products choosen and their weights.  
 
